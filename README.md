@@ -1,3 +1,4 @@
+![QuizMasterHub](https://socialify.git.ci/harivarshney/QuizMasterHub/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
 # MasterQuiz Hub
 
 MasterQuiz Hub is a dynamic and interactive quiz website designed to provide a seamless and engaging user experience. Built with HTML, CSS, and JavaScript, this project aims to test users' knowledge on various topics through well-structured quizzes. The JavaScript code is modularized into two parts: one for handling the questions and another for the main functionality of the website.
