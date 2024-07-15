@@ -49,12 +49,12 @@ MasterQuiz Hub is designed to offer a fun and educational experience by presenti
 4. Try different quizzes to test your knowledge across various subjects.
 
 ## Screenshots
-![Screenshot 2024-07-15 232313](https://github.com/user-attachments/assets/c682653b-ae56-4786-858d-ebfc7e1657e3)
-![Screenshot 2024-07-15 233343](https://github.com/user-attachments/assets/d666534f-e433-4935-85b0-a48fb1507f8e)
-![Screenshot 2024-07-15 233403](https://github.com/user-attachments/assets/907d781c-7bbd-4f30-958f-893aaf9f594e)
+![Screenshot 2024-07-15 234715](https://github.com/user-attachments/assets/04bedde4-3ff1-429f-88ff-2883af508314)
+![Screenshot 2024-07-15 233343](https://github.com/user-attachments/assets/e30a39a5-37ef-4a6a-af13-ce4d90ae68b8)
+![Screenshot 2024-07-15 233403](https://github.com/user-attachments/assets/ecc1de40-1ba4-47bc-bf19-7877517fb4f4)
 
 ## Demo
-https://github.com/user-attachments/assets/5ada12d9-09d0-498e-b9a1-fef2f65a6f6a
+https://github.com/user-attachments/assets/99a33c42-5045-4266-b2eb-80070377f59f
 
 ## Contributing
 Contributions are welcome! If you have suggestions or find issues, please feel free to open an issue or submit a pull request.
