@@ -1,7 +1,7 @@
 ![QuizMasterHub](https://socialify.git.ci/harivarshney/QuizMasterHub/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
-# MasterQuiz Hub
+# QuizMaster Hub
 
-MasterQuiz Hub is a dynamic and interactive quiz website designed to provide a seamless and engaging user experience. Built with HTML, CSS, and JavaScript, this project aims to test users' knowledge on various topics through well-structured quizzes. The JavaScript code is modularized into two parts: one for handling the questions and another for the main functionality of the website.
+QuizMaster Hub is a dynamic and interactive quiz website designed to provide a seamless and engaging user experience. Built with HTML, CSS, and JavaScript, this project aims to test users' knowledge on various topics through well-structured quizzes. The JavaScript code is modularized into two parts: one for handling the questions and another for the main functionality of the website.
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -16,7 +16,7 @@ MasterQuiz Hub is a dynamic and interactive quiz website designed to provide a s
 10. [Contact](#contact)
 
 ## Introduction
-MasterQuiz Hub is designed to offer a fun and educational experience by presenting users with various quizzes. Whether you're a trivia enthusiast or just looking to test your knowledge, MasterQuiz Hub has something for everyone.
+QuizMaster Hub is designed to offer a fun and educational experience by presenting users with various quizzes. Whether you're a trivia enthusiast or just looking to test your knowledge, MasterQuiz Hub has something for everyone.
 
 ## Features
 - Multiple quizzes on different topics
@@ -34,11 +34,11 @@ MasterQuiz Hub is designed to offer a fun and educational experience by presenti
 ## Setup and Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/masterquiz-hub.git
+   git clone https://github.com/yourusername/quizmaster-hub.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd masterquiz-hub
+   cd quizmaster-hub
    ```
 3. Open `index.html` in your preferred web browser.
 
